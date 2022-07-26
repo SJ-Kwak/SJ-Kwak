@@ -7,6 +7,7 @@
 <a href="https://velog.io/@chez_kwak"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Blogger&logoColor=white"/></a>
 <a href="mailto:seojin7@ewhain.net"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 
+<!--
 ```
 💻 I'm majoring in Computer Science and Engineering at Ewha Womans University.
 🌱 I’m interested in Frontend Development and currently learning React, ReactNative, JS/TS.
@@ -24,7 +25,7 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SJ-Kwak&show_icons=true&theme=radical)
-
+!-->
 </div>
 
 <!--
